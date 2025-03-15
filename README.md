@@ -44,7 +44,7 @@ This system utilizes a mesh network of ESP32 devices to extend the range of an e
     * Add ESP32 board support to the Arduino IDE.
     * Install the required libraries.
 2.  **Code Upload:**
-    * Open the `main.cpp` file in the Arduino IDE.
+    * Open the `ESP-airbnb.cpp` file in the Arduino IDE.
     * **Controller Setup:**
         * Upload the code to the ESP32 that will act as the controller.
         * Connect to the controller via its IP address, and set the main wifi credentials via the /setup webpage.
